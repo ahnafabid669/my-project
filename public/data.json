@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sunny Meadow",
+    "age": 85,
+    "img": "/public/images/balloons.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Misty Mountains",
+    "age": 90,
+    "img": "/public/images/pngtree.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Serene Lake",
+    "age": 88,
+    "img": "/public/images/convert.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Golden Desert",
+    "age": 80,
+    "img": "/public/images/falcon.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mystic Forest",
+    "age": 95,
+    "img": "/public/images/forest.jpg"
+  }
+]
