@@ -7,7 +7,7 @@ function App() {
   const [photos, setPhotos] = useState([]);
 
   useEffect(() => {
-    fetch("/public/data.json")
+    fetch("data.json")
       .then((res) => res.json())
       .then((data) => setPhotos(data));
   }, []);
